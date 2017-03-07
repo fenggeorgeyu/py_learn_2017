@@ -1,0 +1,170 @@
+% Exp: OBTree select2 1g on cs2-aws-2 at 20170213-15h56m11s
+% Hostname: cs2-aws-2
+% Total lines: 48803840
+% BAT & TBAT Update Percentages: [0.1, 0.2, 0.3, 0.4, 0.5]
+% Selection Percentages: [0.1, 0.2]
+
+exp            	 per_update     	 per_select     	 iteration      	 time           
+tbat_c_s       	 0.1            	 0.1            	 1              	 1320.963       
+obtree_c       	 0.1            	 0.1            	 1              	 12.722         
+tbat_ob_s      	 0.1            	 0.1            	 1              	 1194.166       
+tbat_c_s       	 0.1            	 0.1            	 2              	 1315.486       
+obtree_c       	 0.1            	 0.1            	 2              	 16.39          
+tbat_ob_s      	 0.1            	 0.1            	 2              	 1188.659       
+tbat_c_s       	 0.1            	 0.1            	 3              	 1316.382       
+obtree_c       	 0.1            	 0.1            	 3              	 12.866         
+tbat_ob_s      	 0.1            	 0.1            	 3              	 1192.215       
+tbat_c_s       	 0.1            	 0.1            	 4              	 1316.576       
+obtree_c       	 0.1            	 0.1            	 4              	 13.799         
+tbat_ob_s      	 0.1            	 0.1            	 4              	 1191.546       
+tbat_c_s       	 0.1            	 0.1            	 5              	 1316.543       
+obtree_c       	 0.1            	 0.1            	 5              	 13.161         
+tbat_ob_s      	 0.1            	 0.1            	 5              	 1192.277       
+tbat_c_s       	 0.1            	 0.2            	 1              	 2633.952       
+obtree_c       	 0.1            	 0.2            	 1              	 13.609         
+tbat_ob_s      	 0.1            	 0.2            	 1              	 2379.677       
+tbat_c_s       	 0.1            	 0.2            	 2              	 2633.836       
+obtree_c       	 0.1            	 0.2            	 2              	 13.249         
+tbat_ob_s      	 0.1            	 0.2            	 2              	 2381.058       
+tbat_c_s       	 0.1            	 0.2            	 3              	 2633.693       
+obtree_c       	 0.1            	 0.2            	 3              	 13.603         
+tbat_ob_s      	 0.1            	 0.2            	 3              	 2379.667       
+tbat_c_s       	 0.1            	 0.2            	 4              	 2632.568       
+obtree_c       	 0.1            	 0.2            	 4              	 13.468         
+tbat_ob_s      	 0.1            	 0.2            	 4              	 2379.226       
+tbat_c_s       	 0.1            	 0.2            	 5              	 2632.989       
+obtree_c       	 0.1            	 0.2            	 5              	 13.23          
+tbat_ob_s      	 0.1            	 0.2            	 5              	 2377.173       
+
+
+tbat_c_s       	 0.2            	 0.1            	 1              	 1318.959       
+obtree_c       	 0.2            	 0.1            	 1              	 31.801         
+tbat_ob_s      	 0.2            	 0.1            	 1              	 1068.889       
+tbat_c_s       	 0.2            	 0.1            	 2              	 1317.443       
+obtree_c       	 0.2            	 0.1            	 2              	 29.631         
+tbat_ob_s      	 0.2            	 0.1            	 2              	 1065.498       
+tbat_c_s       	 0.2            	 0.1            	 3              	 1317.424       
+obtree_c       	 0.2            	 0.1            	 3              	 32.152         
+tbat_ob_s      	 0.2            	 0.1            	 3              	 1061.291       
+tbat_c_s       	 0.2            	 0.1            	 4              	 1316.899       
+obtree_c       	 0.2            	 0.1            	 4              	 29.149         
+tbat_ob_s      	 0.2            	 0.1            	 4              	 1066.444       
+tbat_c_s       	 0.2            	 0.1            	 5              	 1317.285       
+obtree_c       	 0.2            	 0.1            	 5              	 32.778         
+tbat_ob_s      	 0.2            	 0.1            	 5              	 1061.366       
+tbat_c_s       	 0.2            	 0.2            	 1              	 2635.466       
+obtree_c       	 0.2            	 0.2            	 1              	 30.218         
+tbat_ob_s      	 0.2            	 0.2            	 1              	 2123.736       
+tbat_c_s       	 0.2            	 0.2            	 2              	 2630.14        
+obtree_c       	 0.2            	 0.2            	 2              	 28.416         
+tbat_ob_s      	 0.2            	 0.2            	 2              	 2125.202       
+tbat_c_s       	 0.2            	 0.2            	 3              	 2633.265       
+obtree_c       	 0.2            	 0.2            	 3              	 32.357         
+tbat_ob_s      	 0.2            	 0.2            	 3              	 2120.066       
+tbat_c_s       	 0.2            	 0.2            	 4              	 2632.676       
+obtree_c       	 0.2            	 0.2            	 4              	 30.688         
+tbat_ob_s      	 0.2            	 0.2            	 4              	 2124.633       
+tbat_c_s       	 0.2            	 0.2            	 5              	 2632.13        
+obtree_c       	 0.2            	 0.2            	 5              	 29.65          
+tbat_ob_s      	 0.2            	 0.2            	 5              	 2120.603       
+
+
+tbat_c_s       	 0.3            	 0.1            	 1              	 1319.116       
+obtree_c       	 0.3            	 0.1            	 1              	 50.461         
+tbat_ob_s      	 0.3            	 0.1            	 1              	 939.282        
+tbat_c_s       	 0.3            	 0.1            	 2              	 1315.293       
+obtree_c       	 0.3            	 0.1            	 2              	 51.863         
+tbat_ob_s      	 0.3            	 0.1            	 2              	 934.38         
+tbat_c_s       	 0.3            	 0.1            	 3              	 1314.792       
+obtree_c       	 0.3            	 0.1            	 3              	 49.578         
+tbat_ob_s      	 0.3            	 0.1            	 3              	 934.597        
+tbat_c_s       	 0.3            	 0.1            	 4              	 1315.032       
+obtree_c       	 0.3            	 0.1            	 4              	 46.798         
+tbat_ob_s      	 0.3            	 0.1            	 4              	 934.069        
+tbat_c_s       	 0.3            	 0.1            	 5              	 1315.648       
+obtree_c       	 0.3            	 0.1            	 5              	 50.397         
+tbat_ob_s      	 0.3            	 0.1            	 5              	 934.291        
+tbat_c_s       	 0.3            	 0.2            	 1              	 2629.587       
+obtree_c       	 0.3            	 0.2            	 1              	 48.688         
+tbat_ob_s      	 0.3            	 0.2            	 1              	 1867.81        
+tbat_c_s       	 0.3            	 0.2            	 2              	 2629.193       
+obtree_c       	 0.3            	 0.2            	 2              	 47.953         
+tbat_ob_s      	 0.3            	 0.2            	 2              	 1867.772       
+tbat_c_s       	 0.3            	 0.2            	 3              	 2631.168       
+obtree_c       	 0.3            	 0.2            	 3              	 47.765         
+tbat_ob_s      	 0.3            	 0.2            	 3              	 1867.844       
+tbat_c_s       	 0.3            	 0.2            	 4              	 2630.559       
+obtree_c       	 0.3            	 0.2            	 4              	 47.234         
+tbat_ob_s      	 0.3            	 0.2            	 4              	 1867.027       
+tbat_c_s       	 0.3            	 0.2            	 5              	 2629.542       
+obtree_c       	 0.3            	 0.2            	 5              	 47.112         
+tbat_ob_s      	 0.3            	 0.2            	 5              	 1866.878       
+
+
+tbat_c_s       	 0.4            	 0.1            	 1              	 1316.352       
+obtree_c       	 0.4            	 0.1            	 1              	 62.511         
+tbat_ob_s      	 0.4            	 0.1            	 1              	 799.457        
+tbat_c_s       	 0.4            	 0.1            	 2              	 1314.351       
+obtree_c       	 0.4            	 0.1            	 2              	 66.852         
+tbat_ob_s      	 0.4            	 0.1            	 2              	 794.651        
+tbat_c_s       	 0.4            	 0.1            	 3              	 1313.157       
+obtree_c       	 0.4            	 0.1            	 3              	 63.654         
+tbat_ob_s      	 0.4            	 0.1            	 3              	 798.98         
+tbat_c_s       	 0.4            	 0.1            	 4              	 1315.358       
+obtree_c       	 0.4            	 0.1            	 4              	 61.974         
+tbat_ob_s      	 0.4            	 0.1            	 4              	 794.684        
+tbat_c_s       	 0.4            	 0.1            	 5              	 1313.98        
+obtree_c       	 0.4            	 0.1            	 5              	 59.737         
+tbat_ob_s      	 0.4            	 0.1            	 5              	 794.143        
+tbat_c_s       	 0.4            	 0.2            	 1              	 2627.413       
+obtree_c       	 0.4            	 0.2            	 1              	 66.892         
+tbat_ob_s      	 0.4            	 0.2            	 1              	 1586.959       
+tbat_c_s       	 0.4            	 0.2            	 2              	 2625.616       
+obtree_c       	 0.4            	 0.2            	 2              	 65.396         
+tbat_ob_s      	 0.4            	 0.2            	 2              	 1593.062       
+tbat_c_s       	 0.4            	 0.2            	 3              	 2630.144       
+obtree_c       	 0.4            	 0.2            	 3              	 63.678         
+tbat_ob_s      	 0.4            	 0.2            	 3              	 1595.694       
+tbat_c_s       	 0.4            	 0.2            	 4              	 2635.48        
+obtree_c       	 0.4            	 0.2            	 4              	 63.873         
+tbat_ob_s      	 0.4            	 0.2            	 4              	 1597.585       
+tbat_c_s       	 0.4            	 0.2            	 5              	 2632.095       
+obtree_c       	 0.4            	 0.2            	 5              	 64.162         
+tbat_ob_s      	 0.4            	 0.2            	 5              	 1594.794       
+
+
+tbat_c_s       	 0.5            	 0.1            	 1              	 1332.458       
+obtree_c       	 0.5            	 0.1            	 1              	 77.988         
+tbat_ob_s      	 0.5            	 0.1            	 1              	 671.895        
+tbat_c_s       	 0.5            	 0.1            	 2              	 1331.941       
+obtree_c       	 0.5            	 0.1            	 2              	 76.584         
+tbat_ob_s      	 0.5            	 0.1            	 2              	 671.463        
+tbat_c_s       	 0.5            	 0.1            	 3              	 1333.11        
+obtree_c       	 0.5            	 0.1            	 3              	 74.208         
+tbat_ob_s      	 0.5            	 0.1            	 3              	 672.604        
+tbat_c_s       	 0.5            	 0.1            	 4              	 1331.269       
+obtree_c       	 0.5            	 0.1            	 4              	 72.55          
+tbat_ob_s      	 0.5            	 0.1            	 4              	 681.135        
+tbat_c_s       	 0.5            	 0.1            	 5              	 1331.801       
+obtree_c       	 0.5            	 0.1            	 5              	 82.9           
+tbat_ob_s      	 0.5            	 0.1            	 5              	 668.384        
+tbat_c_s       	 0.5            	 0.2            	 1              	 2659.807       
+obtree_c       	 0.5            	 0.2            	 1              	 81.447         
+tbat_ob_s      	 0.5            	 0.2            	 1              	 1331.517       
+tbat_c_s       	 0.5            	 0.2            	 2              	 2675.131       
+obtree_c       	 0.5            	 0.2            	 2              	 79.587         
+tbat_ob_s      	 0.5            	 0.2            	 2              	 1332.427       
+tbat_c_s       	 0.5            	 0.2            	 3              	 2671.002       
+obtree_c       	 0.5            	 0.2            	 3              	 79.73          
+tbat_ob_s      	 0.5            	 0.2            	 3              	 1332.3         
+tbat_c_s       	 0.5            	 0.2            	 4              	 2674.985       
+obtree_c       	 0.5            	 0.2            	 4              	 79.797         
+tbat_ob_s      	 0.5            	 0.2            	 4              	 1332.249       
+tbat_c_s       	 0.5            	 0.2            	 5              	 2665.916       
+obtree_c       	 0.5            	 0.2            	 5              	 79.629         
+tbat_ob_s      	 0.5            	 0.2            	 5              	 1335.676       
+
+
+% Elapsed Time:171107.131s
+% Program Started at: 2017/02/13 15:56:11+0000
+% Program Ended at:   2017/02/15 15:27:58+0000

@@ -91,6 +91,8 @@ ENV/
 
 # fyu
 
-
+._.DS_Store
 .DS_Store
-
+*.pdf
+*.svg
+*.png

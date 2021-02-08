@@ -1,8 +1,8 @@
 /**
  * from example: https://zhuanlan.zhihu.com/p/76058539
  */
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <string>
 using namespace std;
 
 #ifdef __cplusplus
